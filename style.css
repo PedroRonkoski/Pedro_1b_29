@@ -9,9 +9,13 @@ h1 {
 hr {
     color: #fff;
 }
+p {
+    size: 60px;
+    text-justify: auto;
+}
 footer {
     text-align: center;
-    size: 60px;
+    size: 80px;
 }
 .marquinhos {
     max-width: 500px;
