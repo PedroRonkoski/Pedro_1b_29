@@ -12,6 +12,8 @@ hr {
 #normal {
     size: 60px;
     text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 footer {
     text-align: center;
