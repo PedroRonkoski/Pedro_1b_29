@@ -11,6 +11,8 @@ footer {
     max-height: 250px;
     width: auto;
     height: auto;
-    display: flex;
-    justify-content: center;
+    position: absolute;
+    left: 200px;
+    right: 200 px;
+    top: 100 px;
 } 
