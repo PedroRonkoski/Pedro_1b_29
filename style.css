@@ -7,5 +7,8 @@ footer {
     size: 60px;
 }
 .marquinhos {
-    size-adjust: 100px;
+    max-width: 200px;
+    max-height: 100px;
+    width: auto;
+    height: auto;
 } 
