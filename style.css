@@ -1,11 +1,6 @@
 body {
     background-color :#000000
-}
-p {
     font-size: medium;
     font-family: "Noto Sans Runic";
     color: #fff;
-}
-@font-face{ 
-     src: url("/pasta/NotoSansRunic-Regular.ttf");
 }
