@@ -11,7 +11,7 @@ hr {
 }
 p {
     size: 60px;
-    text-justify: auto;
+    text-align: justify;
 }
 footer {
     text-align: center;
