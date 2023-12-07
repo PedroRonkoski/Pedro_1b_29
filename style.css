@@ -1,22 +1,3 @@
 body {background-color :#000000;
     color: #ffffff;
 }
-
-#titulo {
-  color: #8C3503;
-  text-align:center;
-  font-size: 40px;
-}
-.texto1 {
-  color: #8C3503;
-  text-align:justify;
-  font-size: 28px;
-  font-family: Lucida Sans;
-}
-
-.texto2 {
-  color: #8C3503;
-  text-align:justify;
-  font-size: 38px;
-  font-family: Lucida Sans;
-}
