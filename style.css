@@ -3,6 +3,6 @@ body {
 }
 p {
     font-size: medium;
-    font-family: "Oswald";
+    font-family: "Oswald", sans-serif;
     color: #fff;
 }
